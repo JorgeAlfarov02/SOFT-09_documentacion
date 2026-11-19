@@ -2,7 +2,7 @@ public class HolaMundo {
 
     public static void main(String[] args) {
         System.out.println("¡Hola, mundo desde Java!");
-        saludar("Jorge");
+        saludar("Jorge desde la rama conflicto");
         sumar(10, 7);
  }
 
