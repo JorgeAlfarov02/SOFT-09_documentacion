@@ -15,4 +15,9 @@ public class HolaMundo {
         int resultado = a + b;
         System.out.println("La suma de " + a + " + " + b + " es: " + resultado);
     }
+
+        public static void restar(int a, int b) {
+            int resultado = a - b;
+            System.out.println("La resta de " + a + " - " + b + " es: " + resultado);
+    }
 }
