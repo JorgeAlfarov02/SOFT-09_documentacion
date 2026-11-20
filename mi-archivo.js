@@ -11,6 +11,7 @@ public class HolaMundo {
         System.out.println("Hola, " + nombre + ". ¡Bienvenida al ejercicio de Git y GitHub!");
  }
 
+<<<<<<< HEAD
     public static void sumar(int a, int b) {
         int resultado = a + b;
         System.out.println("La suma de " + a + " + " + b + " es: " + resultado);
@@ -21,3 +22,6 @@ public class HolaMundo {
             System.out.println("La resta de " + a + " - " + b + " es: " + resultado);
     }
 }
+=======
+}
+>>>>>>> 9ca2253624aadd8f95eb3c645c895f6787e19121
